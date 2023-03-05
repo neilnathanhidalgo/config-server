@@ -1,2 +1,2 @@
 # config-server
-client to springboot cloud config
+this client use: https://github.com/Develtrex/springboot-serverconfig
